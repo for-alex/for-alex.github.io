@@ -9,3 +9,5 @@
 .perfume-search{margin:0 0 22px;max-width:620px}
 
 .note-link{border:1px solid #ddd;text-align:left;text-decoration:underline;text-underline-offset:3px;min-height:36px;padding:7px 9px}.note-link:hover{border-color:#111;background:#eee;color:#111}.similar-section{border-top:1px solid #ddd;margin-top:28px}.similar-section>p{margin-top:0}.similar-perfume{display:grid;grid-template-columns:65px minmax(0,1fr);gap:16px;padding:18px 0;border-top:1px solid #eee}.similar-perfume .bottle-frame{width:65px;height:90px}.similar-perfume h4{margin:5px 0;font-size:16px}.similar-perfume p{font-size:12px;margin:5px 0 10px}.similar-perfume .tag{font-size:12px}@media(max-width:760px){.note-link{min-height:44px}.similar-perfume{gap:12px}}
+
+.catalog-tools{display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-bottom:22px}.catalog-tools .perfume-search{flex:1;min-width:220px;margin:0}.catalog-filter{display:flex;align-items:center;gap:9px;font-size:14px;min-height:44px;cursor:pointer}.catalog-filter input{width:18px;height:18px;margin:0;accent-color:#111}@media(max-width:760px){.catalog-tools{gap:6px}.catalog-tools .perfume-search{flex-basis:100%;max-width:none}}
